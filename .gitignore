@@ -1,0 +1,11 @@
+.DS_Store
+.env
+.env.*
+source/
+*.docx
+*.pdf
+*.zip
+node_modules/
+.wrangler/
+.npm-cache/
+work/
